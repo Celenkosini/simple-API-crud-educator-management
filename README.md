@@ -1,6 +1,4 @@
-Certainly! Here's a professional and recruiter-friendly `README.md` template tailored for your **simple-API-crud-educator-management** project. This template highlights your full-stack development skills using Spring Boot and React, and is designed to make your project stand out to potential employers.
 
----
 
 # 🎓 Educator Management CRUD App
 
