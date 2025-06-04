@@ -6,7 +6,8 @@ This project provides a simple API for managing educator information, including 
 
 ![image](https://github.com/user-attachments/assets/bfaec3df-8cb7-4372-ba6e-81f5f7bc5a6e)
 
-![image](https://github.com/user-attachments/assets/f6d2c9ce-4948-49b0-a4dd-eb760d8cad99)
+![image](https://github.com/user-attachments/assets/030b3231-5b78-489d-bc69-c4796b3801da)
+
 
 Project Structure
 The project is divided into two main parts:
