@@ -129,7 +129,7 @@ educator-management/
 
 ## 🚀 Deployment
 
-Link:https://management-api.herokuapp.com
+Link:https://educator-management-d1379d58f934.herokuapp.com
 
 ---
 
